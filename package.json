@@ -1,7 +1,7 @@
 {
   "name": "--m4r5-simple-calculator",
   "version": "1.0.1",
-  "description": "simple calculator with typescript , Node.js and Inquirer",
+  "description": "Simple Calculator with typescript , Node.js and Inquirer",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
